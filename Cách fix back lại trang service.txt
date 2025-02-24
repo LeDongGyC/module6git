@@ -1,0 +1,1 @@
+trong service.service tạo 2 hàm get set id theo id của table.id rồi autowired vào trong bill.ts(hàm set) và feedback-create.ts(hàm get)

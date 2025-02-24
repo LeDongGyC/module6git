@@ -1,0 +1,1 @@
+select max(id) vừa chèn rồi lưu vào lấy cái max(id) đấy lưu vào trong feedback_img
